@@ -1,0 +1,4 @@
+[
+  "tests/test_calculate_bmi.py::test_person", 
+  "tests/test_calculate_bmi.py::test_count_overweight"
+]
