@@ -5,7 +5,7 @@ Steps to run the module::
  1. Clone the repo:
      git clone https://GitHub.com/VinayPundhir/code-20210420-vinayPundhir
  2. install requirements:
-     pip install < requirements.txt
+     pip install -r requirements.txt
  3. set PYTHONPATH
      export PYTHONPATH=src
  4. run the tests:
